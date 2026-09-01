@@ -1,0 +1,33 @@
+Day 3 : 
+
+1. Singleton class 
+2. Synchronization and synchronize keyword 
+3. Access Specifiers and Access modifiers 
+4. There are 2 ways to give a copy of one object to another; 
+   i. Shallow Copy 
+         Student s1 = new Student ();
+         int s2= s1;
+  ii. Deep Copy 
+         Student s1 = new Student ();
+         Student (s1.get);
+5. Everything in java is pass by value and not by pass by reference.
+6. Why Strings are immutable in Java ? 
+   It does not store any duplicate object.
+   String str = new String ("Shrushti");
+   String str = "Shrushti";
+Both statements are correct 
+declare, capital (all positions), reverse, concat, etc.
+Most of the questions are asked from the String. 
+7. SCP - String constant pool  
+8. Method Overloading - Same name different parameters 
+9. SOLID principle 
+10.Polymorphism - one name many forms 
+    1. Method overloading - Compile Polymorphism - Static 
+    2. Method overriding  - Runtime Polymorphism - Dynamic 
+11.Parameter and argument 
+12. Modular Programming : Dividing large programs into small parts to make  program execution easy
+13. What if the method has return a type but does not return a type then error occurs. 
+14. Can we overload the main method -  YES ! 
+15. Method Signature   
+
+
